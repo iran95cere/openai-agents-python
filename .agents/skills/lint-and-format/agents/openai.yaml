@@ -1,0 +1,2 @@
+model: o3-mini
+tools: [read_file, write_file, run_command, list_files]
